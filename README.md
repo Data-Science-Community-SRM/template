@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://dscvit.com">
+<a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" />
 </a>
 	<h2 align="center"> < Insert Project Title Here > </h2>
