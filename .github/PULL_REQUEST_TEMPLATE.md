@@ -9,9 +9,7 @@ Generate a Pull Request if the code fixes an **issue**, or if you feel that the 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
 List any dependencies that are required for this change.
 
-```bash
 Fixes #(issue)
-```
 
 ## Types of changes
 
