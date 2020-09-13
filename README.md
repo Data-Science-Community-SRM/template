@@ -62,7 +62,7 @@ John Doe
 
 <td>
 
-John Doe
+Akshat Anand
 
 <p align="center">
 <img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
